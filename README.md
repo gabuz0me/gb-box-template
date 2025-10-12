@@ -10,8 +10,17 @@ Here you can find templates for Game Boy boxes and inlay insert trays.
 
 |   | GB/GBC | GBA |
 |--:|:------:|:---:|
-| SVG | ![GB](./Exported/inlay%20insert%20tray/side/tray_side_gb.svg) | ![GB](./Exported/inlay%20insert%20tray/side/tray_side_gba.svg) |
-| PDF | [Download](./Exported/inlay%20insert%20tray/side/tray_side_gb.pdf) | [Download](./Exported/inlay%20insert%20tray/side/tray_side_gba.pdf) |
+| SVG | ![GB](./Exported/inlay%20insert%20tray/side/tray_side_gb.svg) | ![GBA](./Exported/inlay%20insert%20tray/side/tray_side_gba.svg) |
+| PDF | [GB PDF Version](./Exported/inlay%20insert%20tray/side/tray_side_gb.pdf) | [GBA PDF Version](./Exported/inlay%20insert%20tray/side/tray_side_gba.pdf) |
+
+### Box
+
+|   | EUR |
+|--:|:---:|
+| SVG | ![EUR](./Exported/box/box_template_eur.svg) |
+| PDF | [EUR PDF Version](./Exported/box/box_template_eur.pdf) |
+
+(I know the exact pattern isn't exact. The angle of the flaps or their shapes aren't the same as original boxes. It produces a 125x125x25 mm box, which is sufficient for me. I'm aware some boxes have self-locking Y-shaped bottom flaps, but here I go for a simple model, glued like the side.)
 
 ## What are these files?
 
