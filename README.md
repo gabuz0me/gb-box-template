@@ -1,6 +1,6 @@
 # Game Boy (Color/Advance) Templates
 
-Here you can find templates for Game Boy boxes and inlay insert trays.
+Here you can find templates for Game Boy boxes, inlay insert trays and labels.
 
 ---
 
@@ -17,10 +17,26 @@ Here you can find templates for Game Boy boxes and inlay insert trays.
 
 |   | EUR |
 |--:|:---:|
-| SVG | ![EUR](./Exported/box/box_template_eur.svg) |
-| PDF | [EUR PDF Version](./Exported/box/box_template_eur.pdf) |
+| SVG | ![EUR](./Exported/box/box_eur.svg) |
+| PDF | [EUR PDF Version](./Exported/box/box_eur.pdf) |
 
-(I know the exact pattern isn't exact. The angle of the flaps or their shapes aren't the same as original boxes. It produces a 125x125x25 mm box, which is sufficient for me. I'm aware some boxes have self-locking Y-shaped bottom flaps, but here I go for a simple model, glued like the side.)
+The pattern isn't official. It's only a template I made based on the real dimensions. The angle of the flaps or their shapes aren't the same as original boxes. It produces a 125×125×25 mm box, which is sufficient for me. I'm aware some boxes have self-locking Y-shaped bottom flaps, but here I go for a simple model, glued like the side. Maybe I'll design one, maybe not.
+
+### Label
+
+|   | GBA |
+|--:|:---:|
+| SVG | ![GBA](./Exported/label/label_gba.svg) |
+| PDF | [Label GBA](./Exported/label/label_gba.pdf) |
+
+### Mini Box for Cartridge Plastic Case
+
+|   | Mini Box | Insert Tray for Mini Box |
+|--:|:--------:|:------------------------:|
+| SVG | ![Mini Box](./Exported/mini%20box/mini_box_plastic_case.svg) | ![Insert Tray](./Exported/mini%20box/insert_tray_mini_box.svg) |
+| PDF | [Mini Box for Cartridge Plastic Case](./Exported/mini%20box/mini_box_plastic_case.pdf) | [Insert Tray for Mini Box](./Exported/mini%20box/insert_tray_mini_box.pdf) |
+
+I took the dimensions of the mini box (40×65×15 mm) and added 2 mm clearance for the inlay insert tray.
 
 ## What are these files?
 
@@ -32,10 +48,13 @@ They are CAD files I made with [FreeCAD](https://www.freecad.org/), describing t
 
 ## What are the dimensions of boxes and cartridges?
 
-For the boxes, I measured one and found 125x125x25 mm.
+For the boxes, I measured one and found 125×125×25 mm.
 
 For the cartridges, I used [ConsoleMods.org](https://consolemods.org/wiki/Dimensions_for_Game_Cartridges) and found:
-- GB: 65x57x8 mm
-- GBA: 35x60x9 mm
+- GB: 65×57×8 mm
+- GBA: 35×60×9 mm
 
-I removed 1 mm for clearance for the cartridge space in the inlay insert tray, and set the tray dimensions to 121x121x22 mm so it fits well inside a box.
+For the labels, also on [ConsoleMods.org](https://consolemods.org/wiki/Cart_Labels):
+- GBA: 43×22 mm
+
+I removed 1 mm for clearance for the cartridge space in the inlay insert tray, and set the tray dimensions to 121×121×22 mm so it fits well inside a box.
