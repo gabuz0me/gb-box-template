@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   sodipodi:docname="case_plastic.svg"
+   sodipodi:docname="mini_box_plastic_case.svg"
    inkscape:export-filename="case_plastic.pdf"
    inkscape:export-xdpi="254"
    inkscape:export-ydpi="254"
@@ -27,15 +27,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.5465207"
-     inkscape:cx="253.14889"
-     inkscape:cy="257.99849"
-     inkscape:window-width="1920"
-     inkscape:window-height="1112"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="2.1871105"
+     inkscape:cx="215.80985"
+     inkscape:cy="179.46052"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1"
+     inkscape:current-layer="g408"
      showguides="false">
     <inkscape:grid
        id="grid4"
@@ -129,7 +129,7 @@
       </g>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-         d="m 114.9335,139.77114 c 0,0 -24.516797,0 -24.999998,0 -2.5,0 -2.5,-0.26795 -3.75,-2 -1.25,-1.73205 -3.75,-6 -3.75,-6 H 122.4335 c 0,0 -2.5,4.26795 -3.75,6 -1.25,1.73205 -2.5,2 -3.75,2 z"
+         d="m 59.933497,139.77115 c 0,0 -24.516797,0 -24.999998,0 -2.5,0 -2.5,-0.26795 -3.75,-2 -1.25,-1.73205 -3.75,-6 -3.75,-6 h 39.999998 c 0,0 -2.5,4.26795 -3.75,6 -1.25,1.73205 -2.5,2 -3.75,2 z"
          id="path402"
          sodipodi:nodetypes="zszcczz"
          inkscape:label="Flap Main" />
@@ -152,7 +152,7 @@
          id="rect404"
          width="40"
          height="15"
-         x="82.433502"
+         x="27.433498"
          y="116.77116"
          inkscape:label="Side Bottom" />
       <rect
