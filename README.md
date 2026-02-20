@@ -60,3 +60,11 @@ For the labels, also on [ConsoleMods.org](https://consolemods.org/wiki/Cart_Labe
 - GBA: 22×43 mm
 
 I removed 1 mm for clearance for the cartridge space in the inlay insert tray, and set the tray dimensions to 121×121×22 mm so it fits well inside a box.
+
+---
+
+## Images
+
+| ![Box with GBA Mini Box Tray](./Images/box_tray_gba_mini_box.png) | ![Insert Tray Mini Box GBA](./Images/tray_gba_mini_box.png) | ![Mini Box Plastic Case GBA](./Images/plastic_case_mini_box_gba.png) |
+|:-:|:-:|:-:|
+| Box and Insert Tray for GBA Mini Box | Insert Tray for GBA Mini Box | Mini Box for GBA Plastic Case |
