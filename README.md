@@ -1,5 +1,7 @@
 # Game Boy (Color/Advance) Templates
 
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
 Here you can find templates for Game Boy boxes, inlay insert trays and labels.
 
 ---
@@ -68,3 +70,13 @@ I removed 1 mm for clearance for the cartridge space in the inlay insert tray, 
 | ![Box with GBA Mini Box Tray](./Images/box_tray_gba_mini_box.png) | ![Insert Tray Mini Box GBA](./Images/tray_gba_mini_box.png) | ![Mini Box Plastic Case GBA](./Images/plastic_case_mini_box_gba.png) |
 |:-:|:-:|:-:|
 | Box and Insert Tray for GBA Mini Box | Insert Tray for GBA Mini Box | Mini Box for GBA Plastic Case |
+
+---
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
