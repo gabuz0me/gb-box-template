@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="tray_side_gba.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="GBA_EUR.pdf"
+   inkscape:export-xdpi="362.85999"
+   inkscape:export-ydpi="362.85999"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3656281"
+     inkscape:cx="646.58892"
+     inkscape:cy="832.21779"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g63"
+     inkscape:lockguides="false" />
+  <title
+     id="title1">Exported SVG</title>
+  <style
+     id="style1"><![CDATA[
+polygon {
+shape-rendering:crispEdges;
+stroke-width:0.293000;
+}
+.s0 {
+stroke:#000000;
+stroke-width:0.155990;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s1 {
+stroke:#000000;
+stroke-width:0.155990;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s2 {
+stroke:#19b219;
+stroke-width:0.155990;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s3 {
+stroke:#7f4c00;
+stroke-width:0.155990;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s4 {
+stroke:#00cc00;
+stroke-width:0.155990;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s5 {
+stroke:#000000;
+stroke-width:0.103993;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s6 {
+stroke:#ff19ff;
+stroke-width:0.103993;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s7 {
+stroke:#ff0000;
+stroke-width:0.155990;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s8 {
+stroke:#ffff00;
+stroke-width:0.155990;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.s9 {
+stroke:#001919;
+stroke-width:0.103993;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sa {
+stroke:#006666;
+stroke-width:0.103993;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sb {
+stroke:#00ffff;
+stroke-width:0.311979;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sc {
+stroke:#ff0000;
+stroke-width:0.831945;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.sd {
+stroke:#191919;
+stroke-width:0.103993;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+.se {
+stroke:#000000;
+stroke-width:0.103993;
+stroke-linecap:round;
+stroke-linejoin:round;
+stroke-dasharray:1.560,1.560;
+fill:none;
+}
+.sf {
+stroke:#000000;
+stroke-width:0.311979;
+stroke-linecap:round;
+stroke-linejoin:round;
+fill:none;
+}
+]]></style>
+  <g
+     id="g63"
+     inkscape:label="Pattern"
+     transform="rotate(90,90.75,92.75)">
+    <g
+       id="g61"
+       inkscape:label="Valley"
+       style="display:inline">
+      <path
+         d="m 158,101 v 38"
+         id="path59"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:1.60000002,0.80000001;stroke-dashoffset:0;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 158,18 V 56"
+         id="path55"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:1.60000002,0.80000001;stroke-dashoffset:0;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 183,101 V 56"
+         id="path53"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:1.60000002,0.80000001;stroke-dashoffset:0;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="m 135,101 v 38"
+         id="path48"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:1.60000002,0.80000001;stroke-dashoffset:0;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 135,18 V 56"
+         id="path44"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:1.60000002,0.80000001;stroke-dashoffset:0;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="m 110,56 v 45"
+         id="path42"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:1.60000002,0.80000001;stroke-dashoffset:0;stroke-linejoin:round;stroke-linecap:round" />
+    </g>
+    <g
+       id="g62"
+       inkscape:label="Cut">
+      <path
+         d="M 194,101 H 158"
+         id="path58"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="m 158,56 h 36"
+         id="path56"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="m 99,101 h 36"
+         id="path47"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 135,56 H 99"
+         id="path45"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 60,5 V 18"
+         id="path39"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 15,5 H 60"
+         id="path38"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 15,18 V 5"
+         id="path37"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 5,18 H 15"
+         id="path36"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 5,139 V 18"
+         id="path35"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 15,139 H 5"
+         id="path34"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 15,152 V 139"
+         id="path33"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 60,152 H 15"
+         id="path32"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="m 60,139 v 13"
+         id="path31"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 233,139 H 60"
+         id="path30"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 233,152 V 139"
+         id="path29"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 278,152 H 233"
+         id="path28"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="m 278,139 v 13"
+         id="path27"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 288,139 H 278"
+         id="path26"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 288,18 V 139"
+         id="path25"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="m 278,18 h 10"
+         id="path24"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 278,5 V 18"
+         id="path23"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="m 233,5 h 45"
+         id="path22"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 233,18 V 5"
+         id="path21"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 233,18 H 60"
+         id="path19"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82221px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.400001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.6, 0.800001, 0.400001, 0.800001;stroke-dashoffset:0"
+         x="-174.53555"
+         y="220.05499"
+         id="text45"
+         transform="matrix(0,-1.0000016,0.99999837,0,0,0)"><tspan
+           sodipodi:role="line"
+           style="font-size:2.82221px;text-align:start;text-anchor:start;stroke-width:0.400001"
+           x="-174.53555"
+           y="220.05499"
+           id="tspan46">Insert tray GBA center</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.82221px;text-align:start;text-anchor:start;stroke-width:0.400001"
+           x="-174.53555"
+           y="223.58275"
+           id="tspan1">121×121×12 mm</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.82221px;text-align:start;text-anchor:start;stroke-width:0.400001"
+           x="-174.53555"
+           y="227.11052"
+           id="tspan49">45×73×11 mm</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.82221px;text-align:start;text-anchor:start;stroke-width:0.400001"
+           x="-174.53555"
+           y="230.63828"
+           id="tspan47" /></text>
+    </g>
+    <g
+       id="g60"
+       inkscape:label="Mountain"
+       style="display:inline">
+      <path
+         d="M 169,18 V 56"
+         id="path60"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:1.6, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="m 194,56 v 45"
+         id="path57"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:1.6, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 169,139 V 101"
+         id="path54"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:1.6, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 218,18 V 139"
+         id="path52"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:1.6, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 230,139 V 18"
+         id="path51"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:1.6, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 63,18 V 139"
+         id="path50"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:1.6, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 75,139 V 18"
+         id="path49"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:1.6, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="m 99,56 v 45"
+         id="path46"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:1.6, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 124,18 V 56"
+         id="path43"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:1.6, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="m 124,101 v 38"
+         id="path41"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:1.6, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 60,18 H 15"
+         id="path40"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:1.6, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="m 233,18 h 45"
+         id="path20"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:1.6, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="M 15,139 H 60"
+         id="path18"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:1.6, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-linejoin:round;stroke-linecap:round" />
+      <path
+         d="m 233,139 h 45"
+         id="path17"
+         style="stroke:#000000;stroke-width:0.4;stroke-dasharray:1.6, 0.8, 0.4, 0.8;stroke-dashoffset:0;stroke-linejoin:round;stroke-linecap:round" />
+    </g>
+  </g>
+  <metadata
+     id="metadata63">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Exported SVG</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

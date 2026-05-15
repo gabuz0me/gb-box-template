@@ -9,7 +9,7 @@
    inkscape:export-filename="tray_side_template-Sketch.pdf"
    inkscape:export-xdpi="254"
    inkscape:export-ydpi="254"
-   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -35,9 +35,9 @@
      inkscape:document-units="mm"
      inkscape:zoom="2.207191"
      inkscape:cx="417.72552"
-     inkscape:cy="1012.8258"
+     inkscape:cy="722.86449"
      inkscape:window-width="3840"
-     inkscape:window-height="2054"
+     inkscape:window-height="2066"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
@@ -86,7 +86,7 @@
        d="m -16.5,19.5 -17,17"
        id="path34" />
     <path
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.60000002,3.20000005;stroke-dashoffset:0"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.60000002,0.80000001;stroke-dashoffset:0"
        d="m 16.5,19.5 h -33"
        id="path33" />
     <path
@@ -230,33 +230,33 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.6, 0.799999, 0.4, 0.799999;stroke-dashoffset:0"
-       x="-90.035828"
+       x="-96.035828"
        y="129.5202"
        id="text45"
        transform="scale(1,-1)"><tspan
          sodipodi:role="line"
          style="font-size:2.82222px;stroke-width:0.4"
-         x="-90.035828"
+         x="-96.035828"
          y="129.5202"
-         id="tspan48">Insert tray</tspan><tspan
+         id="tspan48">Insert tray side</tspan><tspan
          sodipodi:role="line"
          style="font-size:2.82222px;stroke-width:0.4"
-         x="-90.035828"
+         x="-96.035828"
          y="133.04797"
          id="tspan1">GBA mini-box</tspan><tspan
          sodipodi:role="line"
          style="font-size:2.82222px;stroke-width:0.4"
-         x="-90.035828"
+         x="-96.035828"
          y="136.57576"
-         id="tspan46">125×125×25 mm</tspan><tspan
+         id="tspan46">121×121×22 mm</tspan><tspan
          sodipodi:role="line"
          style="font-size:2.82222px;stroke-width:0.4"
-         x="-90.035828"
+         x="-96.035828"
          y="140.10353"
          id="tspan49">42×67×17 mm</tspan><tspan
          sodipodi:role="line"
          style="font-size:2.82222px;stroke-width:0.4"
-         x="-90.035828"
+         x="-96.035828"
          y="143.6313"
          id="tspan47" /></text>
   </g>
